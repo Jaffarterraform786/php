@@ -1,3 +1,3 @@
-<?php>
-hello jaffar
-</php>
+<?php
+print "hello jaffar";
+?>
