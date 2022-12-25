@@ -1,3 +1,6 @@
 <?php
-print "hello jaffar";
+
+print "hello jaffar\n";
+
+
 ?>
